@@ -1,2 +1,2 @@
 # Formularios-com-PHP
- Testando o PHP
+ Fiz esse site para programar um pouco em PHP para me acostumar com a linguagem
