@@ -1,2 +1,2 @@
 # Formularios-com-PHP
- Fiz esse site para programar um pouco em PHP para me acostumar com a linguagem
+ Fiz esse site para programar um pouco em PHP para me acostumar com a linguagem, no momento não tem responsividade
