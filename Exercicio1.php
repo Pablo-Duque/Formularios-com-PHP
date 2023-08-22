@@ -44,7 +44,7 @@
       <table>
         <tr>
           <td><p>Nome:</p></td>
-          <td><input type="text" name="nome" maxlength="40" size="41 " required/></td>
+          <td><input type="text" name="nome" maxlength="40" size="25 " required/></td>
         </tr>
         <tr>
           <td><p>Nota 1:</p></td>
